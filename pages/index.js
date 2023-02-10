@@ -1,4 +1,4 @@
-
+<html>
       <Head style = background-color:black;>
         <title>Help's Stuff</title>
       </Head>
@@ -9,3 +9,4 @@
           No stuff :C
         </p>
       </body>
+</html>
