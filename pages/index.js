@@ -10,7 +10,7 @@
         </p>
       <button onclick = stuff()>???<button/>
 <script>
- Fuction = stuff(){
+ function = stuff(){
             document.write("oops looks like there is stuff")
 <script/>
       </body>
