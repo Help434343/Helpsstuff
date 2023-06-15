@@ -6,7 +6,7 @@
       <body>
         <h1 style = color:white;>"Welcome to Help's Stuff!" <h1/>
         <p style = color:white;>
-          No stuff :C
+          IP sniped LOL
         </p>
       <button onclick = stuff()>???<button/>
 <script>
