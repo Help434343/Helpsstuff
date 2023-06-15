@@ -8,10 +8,5 @@
         <p style = color:white;>
           IP sniped LOL
         </p>
-      <button onclick = stuff()>???<button/>
-<script>
- function = stuff(){
-            document.write("oops looks like there is stuff")
-<script/>
       </body>
 </html>
